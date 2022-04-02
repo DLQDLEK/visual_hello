@@ -9,7 +9,7 @@ int main()
     std::cout << "World is mine" << std::endl;
     std::cout << "Earth is mine" << std::endl;
     std::cout << "Luna is mine" << std::endl;
-    std::cout << "Earth on Local repository" << std::endl;
+    std::cout << "World on GitHub" << std::endl;
     std::cout << "Earth on Local repository" << std::endl;
 }
 
